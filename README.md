@@ -99,6 +99,7 @@ Conclusão:
 
 
 English
+
 Performance Comparison: sincronous Pyramid framework vs. assincronous FastAPI framework using Locust
 
 This document presents a performance comparison between the Pyramid and FastAPI web frameworks using the Locust load testing tool. The benchmarks include various endpoints, and the results are based on median and average response times, as well as memory usage.
