@@ -1,5 +1,6 @@
 ![tests](img/fastapi.png)
 ![tests](img/pyramid.png)
+
 #Multilingual Content (Portuguese, English)
 
 Comparação de Desempenho: framework síncrono Pyramid vs. framework assíncrono FastAPI usando Locust
@@ -96,6 +97,21 @@ Conclusão:
     O Contudo, o Pyramid demonstra menor uso de memória em comparação com o FastAPI, indicando uma eficiência superior na gestão de recursos.
 
     A escolha entre os frameworks deve considerar tanto o desempenho quanto a utilização de recursos, com base nos requisitos específicos da aplicação. Dependendo se a velocidade ou a eficiência de recursos é prioritária, os desenvolvedores podem tomar uma decisão informada adaptada às necessidades de seu projeto.
+
+Observação sobre Testes de Performance
+Importante: Os testes de performance apresentados neste documento servem apenas para fins de demonstração e não refletem o desempenho real em um servidor de repositório remoto. As métricas e resultados podem variar significativamente em um ambiente de produção devido a diversos fatores, como:
+
+Hardware: O tipo e a capacidade do hardware do servidor, como CPU, memória e armazenamento, podem ter um impacto significativo no desempenho.
+Rede: A latência e a largura de banda da rede entre o cliente e o servidor podem afetar o tempo de resposta das solicitações.
+Carga do servidor: O número de usuários e a quantidade de atividade simultânea no servidor podem influenciar o desempenho.
+Configurações do software: As configurações do sistema operacional, do servidor web e do aplicativo podem afetar a performance.
+Recomendações:
+
+Para obter uma avaliação precisa do desempenho em um ambiente real, realize testes de performance em um servidor de repositório remoto que represente a configuração de produção.
+Utilize ferramentas de monitoramento para identificar gargalos e otimizar o desempenho do servidor.
+Ajuste as configurações do software e do hardware para obter o melhor desempenho possível.
+Observação: É importante considerar os fatores mencionados acima ao interpretar os resultados dos testes de performance e tomar decisões sobre a otimização do aplicativo.
+
 
 
 English
@@ -194,4 +210,17 @@ Conclusion:
 
     The choice between the frameworks should consider both performance and resource utilization based on the specific requirements of the application. Depending on whether speed or resource efficiency is a higher priority, developers can make an informed decision tailored to the needs of their project.
 
-![tests](img/pyramid.png)
+
+Performance Testing Note
+Important: The performance tests presented in this document are for demonstration purposes only and do not reflect the actual performance on a remote repository server. Metrics and results may vary significantly in a production environment due to several factors, including:
+
+Hardware: The type and capabilities of the server hardware, such as CPU, memory, and storage, can significantly impact performance.
+Network: The latency and bandwidth of the network between the client and server can affect the response time of requests.
+Server Load: The number of users and the amount of concurrent activity on the server can influence performance.
+Software Configurations: Operating system, web server, and application configurations can affect performance.
+Recommendations:
+
+To obtain an accurate assessment of performance in a real environment, conduct performance tests on a remote repository server that represents the production configuration.
+Utilize monitoring tools to identify bottlenecks and optimize server performance.
+Adjust software and hardware configurations to achieve the best possible performance.
+Note: It is important to consider the factors mentioned above when interpreting performance test results and making decisions about application optimization.
