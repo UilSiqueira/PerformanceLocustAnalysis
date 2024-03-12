@@ -121,7 +121,7 @@ Utilize ferramentas de monitoramento para identificar gargalos e otimizar o dese
 Ajuste as configurações do software e do hardware para obter o melhor desempenho possível.
 
 Observação: É importante considerar os fatores mencionados acima ao interpretar os resultados dos testes de performance e tomar decisões sobre a otimização do aplicativo.
-
+<br><br>
 
 
 English
