@@ -24,32 +24,32 @@ Test Configuration:
 Métricas do Pyramid:
 "/category/list"
 
-    Tempo de Resposta Mediano: 960 ms
+    Tempo de Resposta Mediana: 960 ms
     Tempo de Resposta Médio: 969.53 ms
 
 "/product/add"
 
-    Tempo de Resposta Mediano: 22 ms
+    Tempo de Resposta Mediana: 22 ms
     Tempo de Resposta Médio: 38.05 ms
 
 "/product/list?page=1&size=50"
 
-    Tempo de Resposta Mediano: 370 ms
+    Tempo de Resposta Mediana: 370 ms
     Tempo de Resposta Médio: 388.63 ms
 
 "/product/list?search=product-slug"
 
-    Tempo de Resposta Mediano: 37 ms
+    Tempo de Resposta Mediana: 37 ms
     Tempo de Resposta Médio: 103.78 ms
 
 "/user/login"
 
-    Tempo de Resposta Mediano: 330 ms
+    Tempo de Resposta Mediana: 330 ms
     Tempo de Resposta Médio: 389.52 ms
 
 "/user/register"
 
-    Tempo de Resposta Mediano: 320 ms
+    Tempo de Resposta Mediana: 320 ms
     Tempo de Resposta Médio: 402.75 ms
 
 Uso de Memória
@@ -59,32 +59,32 @@ Uso de Memória
 Métricas do FastAPI:
 "/category/list"
 
-    Tempo de Resposta Mediano: 590 ms
+    Tempo de Resposta Mediana: 590 ms
     Tempo de Resposta Médio: 809.82 ms
 
 "/product/add"
 
-    Tempo de Resposta Mediano: 11 ms
+    Tempo de Resposta Mediana: 11 ms
     Tempo de Resposta Médio: 30.92 ms
 
 "/product/list?page=1&size=50"
 
-    Tempo de Resposta Mediano: 17 ms
+    Tempo de Resposta Mediana: 17 ms
     Tempo de Resposta Médio: 24.17 ms
 
 "/product/list?search=product-slug"
 
-    Tempo de Resposta Mediano: 13 ms
+    Tempo de Resposta Mediana: 13 ms
     Tempo de Resposta Médio: 37.18 ms
 
 "/user/login"
 
-    Tempo de Resposta Mediano: 320 ms
+    Tempo de Resposta Mediana: 320 ms
     Tempo de Resposta Médio: 371.85 ms
 
 "/user/register"
 
-    Tempo de Resposta Mediano: 310 ms
+    Tempo de Resposta Mediana: 310 ms
     Tempo de Resposta Médio: 636.78 ms
 
 Uso de Memória
