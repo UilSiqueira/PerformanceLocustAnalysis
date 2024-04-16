@@ -22,6 +22,7 @@ Test Configuration:
         Add Products (POST): 10%
 
 Métricas do Pyramid:
+
 "/category/list"
 
     Tempo de Resposta Mediana: 960 ms
@@ -56,7 +57,10 @@ Uso de Memória
 
     117.1 MB
 
+
+
 Métricas do FastAPI:
+
 "/category/list"
 
     Tempo de Resposta Mediana: 590 ms
@@ -141,6 +145,7 @@ Test Configuration:
         Add Products (POST): 10%
 
 Pyramid Metrics:
+
 "/category/list"
 
     Median Response Time: 960 ms
@@ -176,6 +181,7 @@ Memory Usage
     117.1 MB
 
 FastAPI Metrics:
+
 "/category/list"
 
     Median Response Time: 590 ms
