@@ -21,7 +21,7 @@ Test Configuration:
         Product Listing (GET): 60%
         Add Products (POST): 10%
 
-Métricas do Pyramid:
+<b>Métricas do Pyramid:</b>
 
 "/category/list"
 
@@ -59,7 +59,7 @@ Uso de Memória
 
 
 
-Métricas do FastAPI:
+<b>Métricas do FastAPI</b>:
 
 "/category/list"
 
@@ -144,7 +144,7 @@ Test Configuration:
         Product Listing (GET): 60%
         Add Products (POST): 10%
 
-Pyramid Metrics:
+<b>Pyramid Metrics</b>:
 
 "/category/list"
 
@@ -180,7 +180,7 @@ Memory Usage
 
     117.1 MB
 
-FastAPI Metrics:
+</b>FastAPI Metrics:</b>
 
 "/category/list"
 
